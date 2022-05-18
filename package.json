@@ -2,6 +2,7 @@
   "name": "johnmarques",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://johnmarques.herokuapp.com/",
   "scripts": {
     "start": "vite",
     "build": "vite build",
